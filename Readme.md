@@ -9,9 +9,13 @@ It takes a considerable amount of time for initial run.  Staying synced is meant
 to be run as a background task via cron or whatever, not a watch and wait.  Printing
 output is just so you know the script hasn't stalled on something.
 
-**Scripts**
+**Scripts**  
 Browse the scripts folder to see example creation of the database and where
 the package stores configuration data.
 
-**Examples**
+**Examples**  
 There's really only one example.  It's in the module's example folder...
+
+**djangoORM**
+It's not tracked in this repo, because it exists in one of my other
+github repos.
